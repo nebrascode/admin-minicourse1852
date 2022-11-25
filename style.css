@@ -1,0 +1,119 @@
+body {
+    background-color: #fff;
+    background: linear-gradient(to right, #DEB9F3, #6ABDF6);
+  }
+    .form-card h3{
+        text-align: center;
+        color: #304481;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight:lighter;
+    }
+.form input{
+background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+form .btn-login {
+    width:100%;
+    background-color:#9daacf;
+    color: #fff;
+    float: center;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border-style: none;
+}
+form .btn-login:hover{
+    background-color: #DEB9F3;
+}
+.navbar{
+    background-color: #5658ce;
+}
+.navbar .nav-icon a{
+    color:white;
+}
+.navbar .nav-item{
+    margin-left:30px;
+}
+.navbar .nav-item .nav-link{
+    color:white;
+    margin-left: 30px;
+    font-size: 18;
+}
+.navbar .nav-item a.active{
+    color:white;
+    font-weight: bold;
+}
+.navbar .logout{
+    color: white;
+    margin-right:0;
+    margin-left: auto;
+    background-color:#C080D8;
+    border-radius: 10px;
+}
+.navbar.logout a:hover{
+background-color: #c3b7c7;
+}
+
+.halo{
+    margin-top:20px;
+    margin-left:40px;
+    margin-bottom:10px;
+    padding: 10px;
+}
+.halo h3{
+font-size:20px;
+color: #7c7c7c;
+font-weight: bold;
+
+}
+
+.form-card{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    background-color: #ffffff;
+    padding: 20px;
+    height: auto;
+    width: 400px;
+    margin-top:100px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+   
+}
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    border-style: none;
+    padding:20px;
+    border-radius: 10px;
+    height:fit-content;
+    margin-top: 30px;
+
+}
+.card h2{
+    text-align: center;
+    color:#304481;
+    font-size: 15;
+}
+.card-konten img{
+    height: 310px;
+    width:600px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
+.card-konten p{
+    color: #7c7c7c;
+    margin-left:20px;
+}
+.card-konten a{
+    width:fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:0;
+    background-color: #304481;
+}
